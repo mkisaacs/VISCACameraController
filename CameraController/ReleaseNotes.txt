@@ -1,0 +1,2 @@
+﻿0.0.5.1
+Changed the key handling to be more responsive of cursor keys for camera control.  There should be a significant improvement in how long it takes for the camera to respond to the initial keypress.
